@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\RM2\RM2\bin\Debug\net8.0\RM2.exe
+C:\Users\user\Desktop\RM2\RM2\bin\Debug\net8.0\RM2.deps.json
+C:\Users\user\Desktop\RM2\RM2\bin\Debug\net8.0\RM2.runtimeconfig.json
+C:\Users\user\Desktop\RM2\RM2\bin\Debug\net8.0\RM2.dll
+C:\Users\user\Desktop\RM2\RM2\bin\Debug\net8.0\RM2.pdb
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\RM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\RM2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\RM2.AssemblyInfo.cs
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\RM2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\RM2.dll
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\refint\RM2.dll
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\RM2.pdb
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\RM2.genruntimeconfig.cache
+C:\Users\user\Desktop\RM2\RM2\obj\Debug\net8.0\ref\RM2.dll

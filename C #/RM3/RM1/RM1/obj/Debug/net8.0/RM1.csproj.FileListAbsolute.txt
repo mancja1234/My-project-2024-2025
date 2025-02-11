@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\RM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\RM1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\RM1.AssemblyInfo.cs
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\RM1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RM1\RM1\bin\Debug\net8.0\RM1.exe
+C:\Users\user\Desktop\RM1\RM1\bin\Debug\net8.0\RM1.deps.json
+C:\Users\user\Desktop\RM1\RM1\bin\Debug\net8.0\RM1.runtimeconfig.json
+C:\Users\user\Desktop\RM1\RM1\bin\Debug\net8.0\RM1.dll
+C:\Users\user\Desktop\RM1\RM1\bin\Debug\net8.0\RM1.pdb
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\RM1.dll
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\refint\RM1.dll
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\RM1.pdb
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\RM1.genruntimeconfig.cache
+C:\Users\user\Desktop\RM1\RM1\obj\Debug\net8.0\ref\RM1.dll
